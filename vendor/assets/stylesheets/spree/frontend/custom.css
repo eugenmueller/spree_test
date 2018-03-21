@@ -1,0 +1,16 @@
+#spree-header #header {
+    background: #fff;
+}
+
+#spree-header #header a {
+    color: #1c5c92;
+}
+
+#spree-header #header a:hover {
+    background: #fafafa;
+}
+
+.carousel {
+  margin-bottom: 30px;
+  border: 1px solid lightgray;
+}
