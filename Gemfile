@@ -22,7 +22,7 @@ gem 'spree_static_content', github: 'spree-contrib/spree_static_content'
 gem 'vinsol_spree_themes', github: 'vinsol-spree-contrib/spree_themes', branch: 'master'
 #==================================================================
 #=================== Custom Spree Gems ============================
-gem 'spree_simple_sales', path: '../spree_simple_sales'
+# gem 'spree_simple_sales', path: '../spree_simple_sales'
 #==================================================================
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
