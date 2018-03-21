@@ -14,4 +14,3 @@
 //= require spree/frontend/spree_i18n
 //= require spree/frontend/spree_reviews
 //= require spree/frontend/spree_themes
-//= require spree/frontend/spree_simple_sales

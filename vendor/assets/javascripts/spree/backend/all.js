@@ -13,4 +13,3 @@
 //= require spree/backend/spree_reviews
 //= require spree/backend/spree_themes
 //= require spree/backend/spree_globalize
-//= require spree/backend/spree_simple_sales
